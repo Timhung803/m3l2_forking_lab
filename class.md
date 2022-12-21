@@ -1,2 +1,2 @@
 Name: Tim
-Certification: Meta Front-End Developer Professional Certificate
+Certification: Meta front-End developer professional certificate
